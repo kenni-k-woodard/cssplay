@@ -51,3 +51,5 @@ Rem: stays relative to size of initial set
 vs
 
 Em: multiplication by 2
+
+small change
