@@ -30,3 +30,24 @@ Components
 8. margin
 9. border
 10. Using px or em or rem or vh/vw
+
+## chit chat notes
+
+-cascading style sheets
+-reads top to bottom
+
+selector {
+property: property value
+}
+property+property value = declaration
+
+-you can select multiple elements/classes/ids
+-you can select all elements
+-you can select items within an element/class/id
+-stay specific with css
+
+Rem: stays relative to size of initial set
+
+vs
+
+Em: multiplication by 2
